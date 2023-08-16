@@ -119,7 +119,7 @@
   dependencies:
     "@undecaf/zbar-wasm" "^0.9.15"
 
-"@undecaf/zbar-wasm@^0.9.15":
+"@undecaf/zbar-wasm@^0.9.15", "@undecaf/zbar-wasm@^0.9.16":
   version "0.9.16"
   resolved "https://registry.yarnpkg.com/@undecaf/zbar-wasm/-/zbar-wasm-0.9.16.tgz#ba404602ec90ae20b05fe83c8a68a4c50951f643"
   integrity sha512-T5PcT6g+tLScGjR4WmnRErNvfKqEc3kRg2ux14wHmIDNbvNeXa0BkFK19PRK/jb6zGy5NyWtn4ko6KeNuZc/fQ==
